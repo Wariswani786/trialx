@@ -27,6 +27,13 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+CORS_ALLOW_ALL_ORIGINS = True   # task 1.3 replace
+                                #CORS_ALLOWED_ORIGINS = [ "http://localhost:3000",]
+CORS_ALLOWED_CREDENTIALS = True
+
+ 
+
+
 
 # Application definition
 
@@ -40,9 +47,12 @@ INSTALLED_APPS = [
     'rest_framework',  
     'rest_framework_simplejwt',
     'api',
+        'corsheaders',
+
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
