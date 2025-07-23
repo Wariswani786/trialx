@@ -2,10 +2,13 @@ from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 from rest_framework_simplejwt.views import TokenObtainPairView, TokenRefreshView
 from .views import RegisterView, PatientProfileViewSet, MyHealthProfileView
+from .views import ClinicalTrialViewSet
 
 # Router for admin-level profile management
 router = DefaultRouter()
 router.register(r'profiles', PatientProfileViewSet)
+router.register(r'trials', ClinicalTrialViewSet)
+
 
 urlpatterns = [
     path('register/', RegisterView.as_view(), name='register'),

@@ -5,7 +5,8 @@ from rest_framework.permissions import IsAuthenticated
 from django.contrib.auth.models import User
 from .models import PatientProfile
 from .serializers import RegisterSerializer, PatientProfileSerializer
-
+from .models import ClinicalTrial
+from .serializers import ClinicalTrialSerializer
 
 class RegisterView(APIView):
     """
@@ -62,3 +63,7 @@ class MyHealthProfileView(APIView):
             serializer.save()
             return Response(serializer.data)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+class ClinicalTrialViewSet(viewsets.ModelViewSet):
+    queryset = ClinicalTrial.objects.all()
+    serializer_class = ClinicalTrialSerializer
