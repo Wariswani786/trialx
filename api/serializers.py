@@ -26,7 +26,9 @@ class PatientProfileSerializer(serializers.ModelSerializer):
 
 
 class ClinicalTrialSerializer(serializers.ModelSerializer):
+    score = serializers.FloatField(read_only=True)
+
     class Meta:
         model = ClinicalTrial
-        fields = '__all__'
+        fields = ['id', 'title', 'inclusion_criteria', 'exclusion_criteria', 'location', 'score']
 

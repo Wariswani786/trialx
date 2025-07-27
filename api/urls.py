@@ -5,6 +5,10 @@ from .views import RegisterView, PatientProfileViewSet, MyHealthProfileView
 from .views import ClinicalTrialViewSet
 from .views import PublicClinicalTrialListView
 
+from .views import MatchTrialsView
+
+
+
 
 
 # Router for admin-level profile management
@@ -19,7 +23,7 @@ urlpatterns = [
     path('login/', TokenObtainPairView.as_view(), name='token_obtain_pair'),
     path('token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),
     
-    
+
     # Authenticated user can create/view/update their own profile
     path('my-profile/', MyHealthProfileView.as_view(), name='my-profile'),
 
@@ -27,4 +31,8 @@ urlpatterns = [
     path('', include(router.urls)),
 
     path('public-trials/', PublicClinicalTrialListView.as_view(), name='public-trials'),
+
+   
+
+    path('match-trials/', MatchTrialsView.as_view(), name='match-trials'),
 ]
