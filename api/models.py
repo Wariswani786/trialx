@@ -14,7 +14,7 @@ class PatientProfile(models.Model):
 class ClinicalTrial(models.Model):
     title = models.CharField(max_length=255)
     inclusion_criteria = models.TextField()
-    exclusion_criteria = models.TextField(default='Not specified')  # ✅ Add default
+    exclusion_criteria = models.TextField()  # ✅ Add default
     location = models.CharField(max_length=255)
 
     def __str__(self):

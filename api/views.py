@@ -1,12 +1,16 @@
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status, viewsets
-from rest_framework.permissions import IsAuthenticated
+from rest_framework.permissions import IsAuthenticated, IsAdminUser
 from django.contrib.auth.models import User
-from .models import PatientProfile
-from .serializers import RegisterSerializer, PatientProfileSerializer
-from .models import ClinicalTrial
-from .serializers import ClinicalTrialSerializer
+from .models import PatientProfile, ClinicalTrial
+from .serializers import (
+    RegisterSerializer,
+    PatientProfileSerializer,
+    ClinicalTrialSerializer
+)
+
+from rest_framework import generics, filters
 
 class RegisterView(APIView):
     """
@@ -48,7 +52,7 @@ class MyHealthProfileView(APIView):
     def post(self, request):
         serializer = PatientProfileSerializer(data=request.data)
         if serializer.is_valid():
-            serializer.save(user=request.user)  # user is set here
+            serializer.save(user=request.user)
             return Response(serializer.data, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
@@ -64,6 +68,24 @@ class MyHealthProfileView(APIView):
             return Response(serializer.data)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
+
 class ClinicalTrialViewSet(viewsets.ModelViewSet):
+    """
+    Admin-only CRUD viewset for clinical trials.
+    """
     queryset = ClinicalTrial.objects.all()
     serializer_class = ClinicalTrialSerializer
+    permission_classes = [IsAdminUser]
+
+
+class PublicClinicalTrialListView(generics.ListAPIView):
+    """
+    Public endpoint to list all clinical trials.
+    Supports search by title, location, and inclusion_criteria.
+    """
+    queryset = ClinicalTrial.objects.all()
+    serializer_class = ClinicalTrialSerializer
+    permission_classes = []  # No authentication required
+
+    filter_backends = [filters.SearchFilter]
+    search_fields = ['title', 'location', 'inclusion_criteria']

@@ -13,7 +13,7 @@ class Migration(migrations.Migration):
         migrations.AddField(
             model_name='clinicaltrial',
             name='exclusion_criteria',
-            field=models.TextField(default='Not specified'),
+            field=models.TextField(default='1'),
         ),
         migrations.AddField(
             model_name='clinicaltrial',

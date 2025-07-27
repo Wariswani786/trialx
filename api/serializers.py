@@ -29,3 +29,4 @@ class ClinicalTrialSerializer(serializers.ModelSerializer):
     class Meta:
         model = ClinicalTrial
         fields = '__all__'
+
