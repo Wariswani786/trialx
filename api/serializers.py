@@ -1,7 +1,6 @@
 from rest_framework import serializers
 from django.contrib.auth.models import User
-from .models import PatientProfile
-from .models import ClinicalTrial
+from .models import PatientProfile, ClinicalTrial, Bookmark
 
 class RegisterSerializer(serializers.ModelSerializer):
     password = serializers.CharField(write_only=True)
@@ -17,13 +16,12 @@ class RegisterSerializer(serializers.ModelSerializer):
             password=validated_data['password']
         )
 
-
 class PatientProfileSerializer(serializers.ModelSerializer):
+    user = serializers.PrimaryKeyRelatedField(read_only=True)
+
     class Meta:
         model = PatientProfile
-        fields = ['age', 'gender', 'condition', 'medications']  # 'user' will be set from the view
-
-
+        fields = ['user', 'age', 'gender', 'condition', 'medications']
 
 class ClinicalTrialSerializer(serializers.ModelSerializer):
     score = serializers.FloatField(read_only=True)
@@ -32,3 +30,9 @@ class ClinicalTrialSerializer(serializers.ModelSerializer):
         model = ClinicalTrial
         fields = ['id', 'title', 'inclusion_criteria', 'exclusion_criteria', 'location', 'score']
 
+class BookmarkSerializer(serializers.ModelSerializer):
+    user = serializers.PrimaryKeyRelatedField(read_only=True)
+
+    class Meta:
+        model = Bookmark
+        fields = ['id', 'user', 'trial', 'created_at']

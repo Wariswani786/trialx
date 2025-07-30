@@ -9,7 +9,10 @@ from .serializers import (
     PatientProfileSerializer,
     ClinicalTrialSerializer
 )
-from .match_utils import match_trials_to_profile
+from .match_utils import match_trials
+from .models import Bookmark, ClinicalTrial
+from .serializers import BookmarkSerializer
+
 
 class RegisterView(APIView):
     def post(self, request, *args, **kwargs):
@@ -79,7 +82,7 @@ class MatchTrialsView(APIView):
             return Response({"detail": "Profile not found."}, status=status.HTTP_404_NOT_FOUND)
 
         trials = ClinicalTrial.objects.all()
-        scored_trials = match_trials_to_profile(profile, trials)
+        scored_trials = match_trials(profile, trials)
 
         # Create response including trial details and match score
         response_data = []
@@ -91,3 +94,29 @@ class MatchTrialsView(APIView):
         # Return trials sorted by match_score descending
         sorted_response = sorted(response_data, key=lambda x: x['match_score'], reverse=True)
         return Response(sorted_response)
+
+
+class BookmarkListView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request):
+        bookmarks = Bookmark.objects.filter(user=request.user)
+        serializer = BookmarkSerializer(bookmarks, many=True)
+        return Response(serializer.data)
+
+class ToggleBookmarkView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def post(self, request, trial_id):
+        user = request.user
+        try:
+            trial = ClinicalTrial.objects.get(id=trial_id)
+        except ClinicalTrial.DoesNotExist:
+            return Response({"detail": "Trial not found."}, status=404)
+
+        bookmark, created = Bookmark.objects.get_or_create(user=user, trial=trial)
+
+        if not created:
+            bookmark.delete()
+            return Response({"detail": "Bookmark removed."}, status=200)
+        return Response({"detail": "Bookmark added."}, status=201)

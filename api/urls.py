@@ -7,6 +7,8 @@ from .views import PublicClinicalTrialListView
 
 from .views import MatchTrialsView
 
+from .views import BookmarkListView, ToggleBookmarkView
+
 
 
 
@@ -35,4 +37,8 @@ urlpatterns = [
    
 
     path('match-trials/', MatchTrialsView.as_view(), name='match-trials'),
+
+   path('bookmarks/', BookmarkListView.as_view(), name='bookmark-list'),
+path('bookmarks/<int:trial_id>/toggle/', ToggleBookmarkView.as_view(), name='toggle-bookmark'),
+
 ]
