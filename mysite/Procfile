@@ -1,1 +1,1 @@
-web: gunicorn cd trialx.wsgi
+web: gunicorn mysite.wsgi:application
