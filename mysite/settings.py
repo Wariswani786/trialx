@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-0+mx(k3h!1-n*9c&khc$vq9i#rh8d(hm*!r!nqrb$lw3(wy&36
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['clinicaltrial.onrender.com']
+ALLOWED_HOSTS = ['trialx.onrender.com']
 
 CORS_ALLOW_ALL_ORIGINS = True   # task 1.3 replace
                                 #CORS_ALLOWED_ORIGINS = [ "http://localhost:3000",]
