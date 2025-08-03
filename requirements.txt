@@ -10,5 +10,11 @@ numpy>=1.26
 requests>=2.31
 dj-database-url
 django-extensions
+python-dotenv
+python-decouple
+django-cors-headers
+django-extensions
+
+
 
 
