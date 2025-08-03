@@ -1,4 +1,6 @@
 import os
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "trialx.mysite.settings")
+
 """
 Django settings for mysite project.
 
