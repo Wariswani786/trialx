@@ -31,6 +31,7 @@ class ClinicalTrialSerializer(serializers.ModelSerializer):
         fields = ['id', 'title', 'inclusion_criteria', 'exclusion_criteria', 'location', 'score']
 
 class BookmarkSerializer(serializers.ModelSerializer):
+    trial = ClinicalTrialSerializer(read_only=True)
     user = serializers.PrimaryKeyRelatedField(read_only=True)
 
     class Meta:

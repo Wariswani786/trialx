@@ -1,0 +1,3002 @@
+[
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #1",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 27\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #2",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 26\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #3",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 33\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #4",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 37\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #5",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 59\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #6",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 30\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #7",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 54\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #8",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 54\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "ADHD Clinical Trial #9",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 55\u201364.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Migraine Clinical Trial #10",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 33\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #11",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 52\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #12",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 48\u201365.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #13",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 43\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #14",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 55\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #15",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 26\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #16",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 28\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Migraine Clinical Trial #17",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 20\u201365.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #18",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 42\u201364.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Migraine Clinical Trial #19",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 42\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Obesity Clinical Trial #20",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 31\u201379.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #21",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 44\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #22",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 28\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "ADHD Clinical Trial #23",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 33\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #24",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 32\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #25",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 39\u201367.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #26",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 34\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Obesity Clinical Trial #27",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 28\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #28",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 28\u201367.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #29",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 52\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #30",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 59\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #31",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 40\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #32",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 41\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Hypertension Clinical Trial #33",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 39\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Major Depression Clinical Trial #34",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 31\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Major Depression Clinical Trial #35",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 28\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Parkinson\u2019s Clinical Trial #36",
+    "inclusion_criteria": "Patients diagnosed with parkinson\u2019s. Age between 51\u201373.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #37",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 19\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #38",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 18\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #39",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 57\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Migraine Clinical Trial #40",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 20\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #41",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 31\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Migraine Clinical Trial #42",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 54\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Asthma Clinical Trial #43",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 47\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #44",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 33\u201367.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #45",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 18\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #46",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 24\u201379.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #47",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 36\u201367.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Major Depression Clinical Trial #48",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 59\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #49",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 39\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Hypertension Clinical Trial #50",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 56\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Hypertension Clinical Trial #51",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 36\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #52",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 45\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Major Depression Clinical Trial #53",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 43\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Hypertension Clinical Trial #54",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 21\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #55",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 39\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Obesity Clinical Trial #56",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 49\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #57",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 26\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "ADHD Clinical Trial #58",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 22\u201364.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Asthma Clinical Trial #59",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 59\u201379.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #60",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 44\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Major Depression Clinical Trial #61",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 24\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Hypertension Clinical Trial #62",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 32\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Hepatitis C Clinical Trial #63",
+    "inclusion_criteria": "Patients diagnosed with hepatitis c. Age between 29\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #64",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 39\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #65",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 31\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Migraine Clinical Trial #66",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 35\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #67",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 47\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #68",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 24\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Obesity Clinical Trial #69",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 35\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Parkinson\u2019s Clinical Trial #70",
+    "inclusion_criteria": "Patients diagnosed with parkinson\u2019s. Age between 56\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #71",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 46\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Hepatitis C Clinical Trial #72",
+    "inclusion_criteria": "Patients diagnosed with hepatitis c. Age between 25\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #73",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 27\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #74",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 38\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Major Depression Clinical Trial #75",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 52\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #76",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 46\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Asthma Clinical Trial #77",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 55\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #78",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 47\u201367.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Asthma Clinical Trial #79",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 42\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #80",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 57\u201375.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #81",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 37\u201364.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #82",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 48\u201373.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #83",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 38\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #84",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 60\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #85",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 57\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Major Depression Clinical Trial #86",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 18\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Parkinson\u2019s Clinical Trial #87",
+    "inclusion_criteria": "Patients diagnosed with parkinson\u2019s. Age between 40\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Major Depression Clinical Trial #88",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 40\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #89",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 50\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #90",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 26\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #91",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 57\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Hypertension Clinical Trial #92",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 50\u201365.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Asthma Clinical Trial #93",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 56\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #94",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 42\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Parkinson\u2019s Clinical Trial #95",
+    "inclusion_criteria": "Patients diagnosed with parkinson\u2019s. Age between 51\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Hypertension Clinical Trial #96",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 19\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #97",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 45\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #98",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 53\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Migraine Clinical Trial #99",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 59\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "ADHD Clinical Trial #100",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 34\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #101",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 48\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #102",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 32\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #103",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 20\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #104",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 52\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #105",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 41\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #106",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 56\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #107",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 24\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Parkinson\u2019s Clinical Trial #108",
+    "inclusion_criteria": "Patients diagnosed with parkinson\u2019s. Age between 57\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Obesity Clinical Trial #109",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 20\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Major Depression Clinical Trial #110",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 31\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #111",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 42\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #112",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 25\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #113",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 48\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #114",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 49\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Migraine Clinical Trial #115",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 60\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Hypertension Clinical Trial #116",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 23\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Hypertension Clinical Trial #117",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 45\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Migraine Clinical Trial #118",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 35\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #119",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 56\u201373.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #120",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 58\u201364.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #121",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 26\u201365.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #122",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 31\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Migraine Clinical Trial #123",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 56\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #124",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 32\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #125",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 30\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #126",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 33\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #127",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 45\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #128",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 41\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Obesity Clinical Trial #129",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 57\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #130",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 53\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #131",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 23\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Major Depression Clinical Trial #132",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 58\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #133",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 19\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #134",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 50\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #135",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 35\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Obesity Clinical Trial #136",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 23\u201364.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #137",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 24\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #138",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 53\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Hypertension Clinical Trial #139",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 51\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #140",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 26\u201379.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Major Depression Clinical Trial #141",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 47\u201373.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Hypertension Clinical Trial #142",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 22\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #143",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 39\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #144",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 38\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #145",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 23\u201367.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Migraine Clinical Trial #146",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 22\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #147",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 49\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #148",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 59\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #149",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 54\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #150",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 45\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Parkinson\u2019s Clinical Trial #151",
+    "inclusion_criteria": "Patients diagnosed with parkinson\u2019s. Age between 43\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Asthma Clinical Trial #152",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 32\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #153",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 18\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #154",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 50\u201364.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #155",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 52\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "ADHD Clinical Trial #156",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 53\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Migraine Clinical Trial #157",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 53\u201364.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #158",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 23\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #159",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 39\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #160",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 44\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #161",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 40\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #162",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 22\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #163",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 29\u201373.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #164",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 53\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Hypertension Clinical Trial #165",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 39\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #166",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 32\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #167",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 36\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #168",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 55\u201375.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Major Depression Clinical Trial #169",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 28\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Major Depression Clinical Trial #170",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 21\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #171",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 45\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #172",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 47\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #173",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 52\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "ADHD Clinical Trial #174",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 37\u201379.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #175",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 29\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #176",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 59\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #177",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 33\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #178",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 20\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Obesity Clinical Trial #179",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 55\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Asthma Clinical Trial #180",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 46\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Migraine Clinical Trial #181",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 33\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #182",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 38\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #183",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 28\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #184",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 21\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #185",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 18\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #186",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 33\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #187",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 54\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #188",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 46\u201375.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #189",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 28\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Major Depression Clinical Trial #190",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 20\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #191",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 26\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Obesity Clinical Trial #192",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 45\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Parkinson\u2019s Clinical Trial #193",
+    "inclusion_criteria": "Patients diagnosed with parkinson\u2019s. Age between 51\u201379.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #194",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 57\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #195",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 32\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Asthma Clinical Trial #196",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 48\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #197",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 39\u201364.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #198",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 31\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #199",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 18\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #200",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 40\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #201",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 30\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #202",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 21\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #203",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 40\u201365.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Hepatitis C Clinical Trial #204",
+    "inclusion_criteria": "Patients diagnosed with hepatitis c. Age between 41\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Hypertension Clinical Trial #205",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 60\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Parkinson\u2019s Clinical Trial #206",
+    "inclusion_criteria": "Patients diagnosed with parkinson\u2019s. Age between 44\u201373.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "ADHD Clinical Trial #207",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 54\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Obesity Clinical Trial #208",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 59\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #209",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 53\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #210",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 46\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #211",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 20\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "ADHD Clinical Trial #212",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 25\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #213",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 26\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #214",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 60\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #215",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 38\u201367.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Migraine Clinical Trial #216",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 18\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #217",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 53\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #218",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 34\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Major Depression Clinical Trial #219",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 18\u201375.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #220",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 35\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Migraine Clinical Trial #221",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 19\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #222",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 22\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #223",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 32\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #224",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 28\u201367.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #225",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 38\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #226",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 35\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #227",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 52\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #228",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 47\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #229",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 40\u201365.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #230",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 29\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Migraine Clinical Trial #231",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 18\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #232",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 28\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #233",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 19\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #234",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 34\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #235",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 43\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Asthma Clinical Trial #236",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 36\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #237",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 55\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #238",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 41\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #239",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 34\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Migraine Clinical Trial #240",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 60\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #241",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 38\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #242",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 36\u201379.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #243",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 22\u201379.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #244",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 44\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #245",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 46\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #246",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 40\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #247",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 36\u201379.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #248",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 26\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Obesity Clinical Trial #249",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 21\u201373.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "ADHD Clinical Trial #250",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 41\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #251",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 24\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #252",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 29\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "ADHD Clinical Trial #253",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 33\u201364.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Migraine Clinical Trial #254",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 51\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Obesity Clinical Trial #255",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 60\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #256",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 30\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #257",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 28\u201367.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Migraine Clinical Trial #258",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 19\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Asthma Clinical Trial #259",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 34\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #260",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 49\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Parkinson\u2019s Clinical Trial #261",
+    "inclusion_criteria": "Patients diagnosed with parkinson\u2019s. Age between 31\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #262",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 45\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Hepatitis C Clinical Trial #263",
+    "inclusion_criteria": "Patients diagnosed with hepatitis c. Age between 28\u201379.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #264",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 43\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #265",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 34\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Major Depression Clinical Trial #266",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 31\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Major Depression Clinical Trial #267",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 37\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #268",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 36\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #269",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 33\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #270",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 53\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #271",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 48\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Major Depression Clinical Trial #272",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 51\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Major Depression Clinical Trial #273",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 55\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Obesity Clinical Trial #274",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 42\u201373.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #275",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 38\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #276",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 54\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "ADHD Clinical Trial #277",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 41\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #278",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 50\u201364.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Migraine Clinical Trial #279",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 59\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #280",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 19\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #281",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 59\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #282",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 28\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #283",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 55\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Migraine Clinical Trial #284",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 25\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #285",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 43\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #286",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 53\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Obesity Clinical Trial #287",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 38\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #288",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 23\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Hypertension Clinical Trial #289",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 60\u201365.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #290",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 49\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #291",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 42\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #292",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 44\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #293",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 25\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Asthma Clinical Trial #294",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 47\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #295",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 34\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #296",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 33\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #297",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 57\u201365.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #298",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 49\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #299",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 59\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #300",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 43\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #301",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 22\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #302",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 54\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Major Depression Clinical Trial #303",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 60\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "ADHD Clinical Trial #304",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 21\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Asthma Clinical Trial #305",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 33\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Migraine Clinical Trial #306",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 36\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #307",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 52\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #308",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 26\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Obesity Clinical Trial #309",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 21\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #310",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 33\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Hypertension Clinical Trial #311",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 26\u201379.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Hypertension Clinical Trial #312",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 42\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Asthma Clinical Trial #313",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 42\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Hepatitis C Clinical Trial #314",
+    "inclusion_criteria": "Patients diagnosed with hepatitis c. Age between 51\u201365.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #315",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 30\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #316",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 18\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #317",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 24\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #318",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 29\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #319",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 58\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #320",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 28\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #321",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 31\u201365.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Asthma Clinical Trial #322",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 57\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Parkinson\u2019s Clinical Trial #323",
+    "inclusion_criteria": "Patients diagnosed with parkinson\u2019s. Age between 51\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #324",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 58\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #325",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 46\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #326",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 48\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #327",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 36\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #328",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 19\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Asthma Clinical Trial #329",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 42\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #330",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 20\u201375.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Asthma Clinical Trial #331",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 21\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #332",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 48\u201373.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #333",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 41\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #334",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 41\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "ADHD Clinical Trial #335",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 28\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #336",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 36\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #337",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 43\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #338",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 49\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Hypertension Clinical Trial #339",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 39\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Parkinson\u2019s Clinical Trial #340",
+    "inclusion_criteria": "Patients diagnosed with parkinson\u2019s. Age between 25\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #341",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 19\u201375.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Hypertension Clinical Trial #342",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 39\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #343",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 20\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #344",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 31\u201375.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Migraine Clinical Trial #345",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 36\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Parkinson\u2019s Clinical Trial #346",
+    "inclusion_criteria": "Patients diagnosed with parkinson\u2019s. Age between 59\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Obesity Clinical Trial #347",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 59\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #348",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 26\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Hepatitis C Clinical Trial #349",
+    "inclusion_criteria": "Patients diagnosed with hepatitis c. Age between 39\u201375.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #350",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 21\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #351",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 43\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Asthma Clinical Trial #352",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 40\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Hypertension Clinical Trial #353",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 53\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Hypertension Clinical Trial #354",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 34\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #355",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 58\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #356",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 19\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Hypertension Clinical Trial #357",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 54\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #358",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 32\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Major Depression Clinical Trial #359",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 40\u201375.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Hypertension Clinical Trial #360",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 42\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #361",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 27\u201379.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #362",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 56\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #363",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 55\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Major Depression Clinical Trial #364",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 49\u201375.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #365",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 45\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #366",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 45\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Asthma Clinical Trial #367",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 35\u201364.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #368",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 19\u201379.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #369",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 49\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Obesity Clinical Trial #370",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 27\u201373.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #371",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 59\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #372",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 47\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #373",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 18\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Asthma Clinical Trial #374",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 53\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Hypertension Clinical Trial #375",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 45\u201373.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #376",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 32\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "ADHD Clinical Trial #377",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 23\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #378",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 36\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #379",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 58\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #380",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 56\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #381",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 27\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Hypertension Clinical Trial #382",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 22\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #383",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 53\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #384",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 38\u201364.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #385",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 27\u201365.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #386",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 29\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Asthma Clinical Trial #387",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 42\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #388",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 58\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #389",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 22\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #390",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 44\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #391",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 27\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Major Depression Clinical Trial #392",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 39\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #393",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 29\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Migraine Clinical Trial #394",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 29\u201373.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Obesity Clinical Trial #395",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 19\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #396",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 18\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #397",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 47\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #398",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 45\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Hypertension Clinical Trial #399",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 21\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Rheumatoid Arthritis Clinical Trial #400",
+    "inclusion_criteria": "Patients diagnosed with rheumatoid arthritis. Age between 32\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Asthma Clinical Trial #401",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 26\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Asthma Clinical Trial #402",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 19\u201375.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Migraine Clinical Trial #403",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 21\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #404",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 60\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Asthma Clinical Trial #405",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 25\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #406",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 31\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #407",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 41\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Hepatitis C Clinical Trial #408",
+    "inclusion_criteria": "Patients diagnosed with hepatitis c. Age between 21\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "COVID-19 Vaccine Clinical Trial #409",
+    "inclusion_criteria": "Patients diagnosed with covid-19 vaccine. Age between 39\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Asthma Clinical Trial #410",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 41\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #411",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 36\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Major Depression Clinical Trial #412",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 43\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #413",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 19\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #414",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 58\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Asthma Clinical Trial #415",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 45\u201367.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Asthma Clinical Trial #416",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 47\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Obesity Clinical Trial #417",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 18\u201364.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Hepatitis C Clinical Trial #418",
+    "inclusion_criteria": "Patients diagnosed with hepatitis c. Age between 24\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #419",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 24\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #420",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 21\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Obesity Clinical Trial #421",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 28\u201383.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Parkinson\u2019s Clinical Trial #422",
+    "inclusion_criteria": "Patients diagnosed with parkinson\u2019s. Age between 56\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Hepatitis C Clinical Trial #423",
+    "inclusion_criteria": "Patients diagnosed with hepatitis c. Age between 44\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #424",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 59\u201364.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #425",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 38\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Asthma Clinical Trial #426",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 37\u201373.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #427",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 50\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Migraine Clinical Trial #428",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 46\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #429",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 52\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #430",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 19\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #431",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 20\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #432",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 35\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #433",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 32\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #434",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 52\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #435",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 38\u201373.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #436",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 29\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Parkinson\u2019s Clinical Trial #437",
+    "inclusion_criteria": "Patients diagnosed with parkinson\u2019s. Age between 20\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #438",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 22\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #439",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 26\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Hypertension Clinical Trial #440",
+    "inclusion_criteria": "Patients diagnosed with hypertension. Age between 36\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Obesity Clinical Trial #441",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 19\u201367.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #442",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 57\u201375.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #443",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 31\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #444",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 35\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "ADHD Clinical Trial #445",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 27\u201367.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Major Depression Clinical Trial #446",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 25\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Major Depression Clinical Trial #447",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 28\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #448",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 32\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #449",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 20\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #450",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 54\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #451",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 47\u201375.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Asthma Clinical Trial #452",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 39\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Obesity Clinical Trial #453",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 42\u201365.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #454",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 48\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Hepatitis C Clinical Trial #455",
+    "inclusion_criteria": "Patients diagnosed with hepatitis c. Age between 60\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #456",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 28\u201365.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #457",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 19\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Parkinson\u2019s Clinical Trial #458",
+    "inclusion_criteria": "Patients diagnosed with parkinson\u2019s. Age between 27\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Migraine Clinical Trial #459",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 26\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #460",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 26\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #461",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 58\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #462",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 46\u201365.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #463",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 43\u201375.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Asthma Clinical Trial #464",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 19\u201364.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "San Francisco, USA"
+  },
+  {
+    "title": "Migraine Clinical Trial #465",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 28\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #466",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 41\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #467",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 38\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #468",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 51\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Alzheimer\u2019s Clinical Trial #469",
+    "inclusion_criteria": "Patients diagnosed with alzheimer\u2019s. Age between 47\u201363.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  },
+  {
+    "title": "Major Depression Clinical Trial #470",
+    "inclusion_criteria": "Patients diagnosed with major depression. Age between 33\u201376.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #471",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 32\u201372.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "ADHD Clinical Trial #472",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 18\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "ADHD Clinical Trial #473",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 57\u201378.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #474",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 33\u201382.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Lung Cancer Clinical Trial #475",
+    "inclusion_criteria": "Patients diagnosed with lung cancer. Age between 40\u201371.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #476",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 28\u201367.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #477",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 57\u201366.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Psoriasis Clinical Trial #478",
+    "inclusion_criteria": "Patients diagnosed with psoriasis. Age between 24\u201373.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #479",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 53\u201365.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #480",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 55\u201373.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #481",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 22\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #482",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 60\u201384.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #483",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 40\u201385.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #484",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 36\u201379.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Migraine Clinical Trial #485",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 19\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Obesity Clinical Trial #486",
+    "inclusion_criteria": "Patients diagnosed with obesity. Age between 57\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "ADHD Clinical Trial #487",
+    "inclusion_criteria": "Patients diagnosed with adhd. Age between 23\u201365.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Migraine Clinical Trial #488",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 27\u201362.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #489",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 18\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Type 2 Diabetes Clinical Trial #490",
+    "inclusion_criteria": "Patients diagnosed with type 2 diabetes. Age between 47\u201377.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Cape Town, South Africa"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #491",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 25\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Migraine Clinical Trial #492",
+    "inclusion_criteria": "Patients diagnosed with migraine. Age between 58\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #493",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 26\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Multiple Sclerosis Clinical Trial #494",
+    "inclusion_criteria": "Patients diagnosed with multiple sclerosis. Age between 18\u201369.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Prostate Cancer Clinical Trial #495",
+    "inclusion_criteria": "Patients diagnosed with prostate cancer. Age between 24\u201361.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Sydney, Australia"
+  },
+  {
+    "title": "Asthma Clinical Trial #496",
+    "inclusion_criteria": "Patients diagnosed with asthma. Age between 59\u201370.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Toronto, Canada"
+  },
+  {
+    "title": "Crohn\u2019s Disease Clinical Trial #497",
+    "inclusion_criteria": "Patients diagnosed with crohn\u2019s disease. Age between 28\u201381.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Berlin, Germany"
+  },
+  {
+    "title": "Breast Cancer Clinical Trial #498",
+    "inclusion_criteria": "Patients diagnosed with breast cancer. Age between 43\u201368.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "London, UK"
+  },
+  {
+    "title": "Epilepsy Clinical Trial #499",
+    "inclusion_criteria": "Patients diagnosed with epilepsy. Age between 41\u201374.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "Delhi, India"
+  },
+  {
+    "title": "Chronic Pain Clinical Trial #500",
+    "inclusion_criteria": "Patients diagnosed with chronic pain. Age between 56\u201380.",
+    "exclusion_criteria": "History of unrelated medical condition. Pregnancy or severe comorbidity.",
+    "location": "New York, USA"
+  }
+]
